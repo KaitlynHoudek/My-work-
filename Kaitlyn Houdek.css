@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(214, 112, 146)
+}
+h2 {
+    color: goldenrod
+}
+h3 {
+    color: aquamarine;
+}
+
+li {
+    color: aquamarine;
+    background-color: darkblue;
+    border-color: gray;
+    border-width: 3px, 10px, 3px, 10px;
+    border-style: solid;
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    display:inline-block
+    margin: -5px;
+}

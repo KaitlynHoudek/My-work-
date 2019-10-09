@@ -1,0 +1,39 @@
+/*Give all p elements a font-size of 1.2em
+Give the class "weather-heading" a font-family of Helvetica.
+Give the class "weather-forecast" a background-color of "#c7d5ed"
+Give the class "forecast" a color of "#270538"*/
+body {
+    color:navy;
+}
+p{
+    font-size: 1.2em ;
+
+}
+.center {
+    padding: 70px 0;
+    border: 3px solid green;
+    text-align: center;
+  }
+
+
+.weather-heading {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.weather-forecast {
+    background-color: #c7d5ed;
+    display: flex
+    margin: auto;
+}
+
+.forecast{
+    color:#270538 ;
+}
+
+a:link {
+    background color: light blue;
+    color: yellow;
+}
+
+
