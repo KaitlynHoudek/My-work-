@@ -1,0 +1,60 @@
+:root {
+    --mbgc: lightpink;
+    --main-textColor: rgb(214, 112, 146);
+}
+
+h1 {
+    background-color: var(--mbgc);
+    color: var(--main-textColor, green);
+}
+
+#center
+{
+    text-align:center;
+}
+
+#center2
+{
+    text-align:center;
+}
+
+#center3
+{
+    text-align:center;
+}
+
+#center4
+{
+    text-align:center;
+}
+
+
+
+li {
+    color: white;
+    background-color: lightpink;
+    border-color: rgb(214, 112, 146);
+    border-width: 3px, 10px, 3px, 10px;
+    border-style: solid;
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    display:inline-block
+    margin: -5px;
+}
+
+.flex-container {
+    display:flex;
+    flex-wrap: wrap;
+    border-color: hotpink;
+    margin-left: 400px;
+}
+
+#box
+{
+    margin-left: 1000px;
+}
+h2 {
+    color:rgb(214, 112, 146); 
+}
+
