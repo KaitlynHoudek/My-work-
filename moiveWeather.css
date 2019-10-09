@@ -1,0 +1,62 @@
+h1 {
+    color: rgb(214, 112, 146);
+}
+    
+body {
+        color: navy;      
+}
+
+p.dotted {border-style: dotted;}
+
+li {
+    color: white;
+    background-color: lightpink;
+    border-color: hotpink;
+    border-width: 3px, 10px, 3px, 10px;
+    border-style: solid;
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    display:inline-block
+    margin: -5px;
+}
+
+h2 {
+    color:rgb(214, 112, 146); 
+}
+
+.forecast {
+    color: white;
+    background-color: lightpink;
+    display: flex;
+    margin: 2em;
+    border-width: 10vh;
+    padding: 2em;
+    height: 10vh;
+    width: 10vh;
+    justify-content: center;
+    
+}
+
+.flex-container {
+    display:flex;
+    flex-wrap: wrap;
+    border-color: hotpink;
+    margin-left: 400px;
+
+}
+
+#center
+{
+    text-align:center;
+}
+
+#center2
+{
+    text-align:center;
+}
+
+#box
+{
+    margin-left: 500px;
+}
